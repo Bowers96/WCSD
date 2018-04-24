@@ -1,5 +1,3 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
-
 # WCSD-Front-End
 
 The WCSD app is an E-Commerce app showcasing the latest and greatest trends today.
@@ -43,30 +41,9 @@ After I got all the planning out of the way I began to work and develop my idea.
 
 I finished everything up with my README.md's. Once I finished those I did a lot of debugging test to make sure everything was working correctly, I went on to asking my classmates to try and break my app and give me any feedback on it.
 
-### User Stories
-We developed our user stories within Trello:<br>
-https://trello.com/b/8LmFqVsb/wcsd
-
-### Wireframes and ERD
-Wireframes - http://i.imgur.com/lDor1xf.jpg  <br>
-ERD - http://i.imgur.com/JOSLAOY.png
-
-## Major Hurdles
-I had to overcome the following challenge:
-- Heroku / mlab deployments.
-
----
 
 ## Future Enhancements
 - Adding Stripe
 - More stylistic changes
 
 
----
-
-## [License](LICENSE)
-
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
-    alternative licensing, please contact legal@ga.co.
-# WCSD
